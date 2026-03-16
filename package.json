@@ -1,0 +1,28 @@
+{
+  "name": "cognitive-pilot",
+  "version": "1.0.0",
+  "description": "OpenClaw plugin for cognitive enhancement and guided thought processing",
+  "type": "module",
+  "main": "index.ts",
+  "keywords": [
+    "openclaw",
+    "openclaw-plugin",
+    "review",
+    "thinking-framework",
+    "personal-growth"
+  ],
+  "license": "MIT",
+  "openclaw": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "scripts": {
+    "check": "tsc --noEmit",
+    "start": "node --loader ts-node/esm index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
