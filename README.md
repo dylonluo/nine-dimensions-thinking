@@ -4,6 +4,8 @@
 
 A Claude Code skill for complex decisions, strategic planning, problem diagnosis, and personal growth.
 
+![Nine Dimensions Thinking Models](./assets/9D.png)
+
 Instead of giving surface-level advice, `nine-dimensions` reframes a problem through nine classic thinking models:
 
 1. Aristotle - First Principles Thinking
